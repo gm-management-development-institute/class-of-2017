@@ -1,0 +1,159 @@
+{
+  "institute": "Management Development Institute",
+  "location": "Kanifing",
+  "classOf": "2017",
+  "active": true,
+  "students": [{
+      "name": ["modou", "kamaso"],
+      "born": 1994,
+      "location": "bundung",
+      "interest": ["football", "basket"],
+      "gender": "Male",
+      "phone": ["3906335"],
+      "email": "mokamaso1@gmail.com",
+      "natonality": "Gambian"
+    },
+
+    {
+      "name": ["joseph", "Keite"],
+      "born": 1995,
+      "location": "fajara",
+      "interest": ["movie", "music"],
+      "gender": "Male",
+      "phone": ["3701101"],
+      "email": "joe.com",
+      "natonality": "Gambian"
+    },
+
+    {
+      "name": "ismaila, njie",
+      "born": 1995,
+      "location": "jabang",
+      "interest": ["football", "basket", "indoor soccer"],
+      "gender": "Male",
+      "phone": ["3698065"],
+      "email": "ismaila.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["babucarr", "marong"],
+      "born": 1876,
+      "location": "banjul",
+      "interest": ["bicycle", "movie"],
+      "gender": "Male",
+      "phone": ["3888828"],
+      "email": "babucarrmarong@gmail.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["amadou", "bah"],
+      "born": 1876,
+      "location": "bakoteh",
+      "interest": ["movie", "sports", "soccer"],
+      "gender": "Male",
+      "phone": ["3728447"],
+      "email": "amzbah8@gmail.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["kawsu", "kanaji"],
+      "born": 1987,
+      "location": "tallinding",
+      "interest": ["football", "movie"],
+      "gender": "Male",
+      "phone": ["3062143"],
+      "email": "kawsu.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["sainey", "bangura"],
+      "born": 1986,
+      "location": "lamin",
+      "interest": ["food", "training"],
+      "gender": "Male",
+      "phone": ["3835812"],
+      "email": "sainey.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": "lala fofana",
+      "born": 1195,
+      "location": "lamin",
+      "interest": ["music", "dancing"],
+      "gender": "female",
+      "phone": ["3028331"],
+      "email": "lalafofana@yahoo.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["mariama k", "sanyang"],
+      "born": 1995,
+      "location": "nema",
+      "interest": ["movie", "music"],
+      "gender": "female",
+      "phone": ["7433136"],
+      "email": "sanyangmariama6@gmail.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["aminata", "touray"],
+      "born": 1996,
+      "location": "brusubi",
+      "interest": ["music", "movie"],
+      "gender": "female",
+      "phone": ["3071155"],
+      "email": "atouray20@gmail.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["amie", "jack"],
+      "born": 1994,
+      "location": "tabokoto",
+      "interest": ["music", "ndaga"],
+      "gender": "female",
+      "phone": ["3764961"],
+      "email": "Amiejack07@gmail.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["yama", "mendy"],
+      "born": 1984,
+      "location": "brikama",
+      "interest": ["music", "movie"],
+      "gender": "female",
+      "phone": ["7810083"],
+      "email": "yama.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["fatou", "ndow"],
+      "born": 1986,
+      "location": "brikama",
+      "interest": ["music", "movie"],
+      "gender": "female",
+      "phone": ["3931530"],
+      "email": "fatou.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["banuha", "sonko"],
+      "born": 1995,
+      "location": "kololi",
+      "interest": ["football", "computer"],
+      "gender": "Male",
+      "phone": ["3352865"],
+      "email": "sonko2030.com",
+      "natonality": "Gambian"
+    },
+    {
+      "name": ["abdalah", "secka"],
+      "born": 1994,
+      "location": "tallinding",
+      "interest": ["soccer", "movie"],
+      "gender": "Male",
+      "phone": ["3333333"],
+      "email": "ala.com",
+      "natonality": "Gambian"
+    }
+  ]
+}
